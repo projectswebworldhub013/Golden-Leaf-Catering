@@ -37,7 +37,6 @@ const Hero = () => {
               Welcome to Golden Leaf Catering
             </p>
 
-            {/* Fixed height to prevent jumping */}
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight text-white drop-shadow-lg min-h-[16rem] py-8">
               <Typewriter
                 words={taglines}
